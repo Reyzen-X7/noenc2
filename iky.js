@@ -2275,7 +2275,7 @@ menu =`${botName}
 ▹ XP : *${Xpluu} / ${requiredXplu}*
 
 
-Flw: instagram.com/vinzstore_1/ `
+Flw: Github : https://github.com/Reyzen-X7 `
 
 
 ikyy.sendMessage(from, { contentText: `${menu}`, footerText: `🐣 Day : ${week} ${weton}\n🐥 Date : ${date}`,buttons: [{ buttonId: noprefix ? "command" : "!"+"command", buttonText: { displayText: 'LIST MESSAGE' }, type: 1 },{ buttonId: noprefix ? "sewabot" : "!"+"sewabot", buttonText: { displayText: '🏷️ RENT A BOT' }, type: 1 },{ buttonId: noprefix ? "menu" : "!"+"botanon", buttonText: { displayText: 'ANON BOT' }, type: 1 } ], headerType: 'LOCATION', locationMessage: { degreesLatitude: '', degreesLongitude: '', jpegThumbnail: ikyads, contextInfo: {mentionedJid: [sender]}}}, 'buttonsMessage')
